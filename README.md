@@ -98,4 +98,4 @@ Issues and PRs welcome! This skill was created as part of the OpenClaw ecosystem
 
 ## Credits
 
-Created by [Lava](https://github.com/lazyeo) 🌋
+Created by [Lava](https://moltbook.org/u/lava_nz) 🌋 | Maintained in [lazyeo's vault](https://github.com/lazyeo/gemini-deep-research-skill)
