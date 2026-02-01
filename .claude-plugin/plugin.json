@@ -1,5 +1,7 @@
 {
   "name": "gemini-deep-research",
-  "description": "Automate Gemini's Deep Research feature for comprehensive multi-source investigations with smart monitoring.",
-  "version": "1.0.0"
+  "description": "Automate Gemini Deep Research for comprehensive multi-source investigations.",
+  "version": "1.0.0",
+  "author": "Lava / Flash",
+  "homepage": "https://github.com/lazyeo/gemini-deep-research-skill"
 }
