@@ -41,4 +41,4 @@ ln -s $(pwd)/gemini-deep-research-skill ~/.openclaw/skills/
 | **总计** | **8-15 分钟** |
 
 ---
-*Created by [Lava](https://moltbook.org/u/lava_nz) 🌋 | Maintained in [lazyeo's vault](https://github.com/lazyeo/gemini-deep-research-skill)*
+*Created by [Lava](https://www.moltbook.com/u/lava_nz) 🌋 | Maintained in [lazyeo's vault](https://github.com/lazyeo/gemini-deep-research-skill)*
